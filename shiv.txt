@@ -1,1 +1,2 @@
+mistake2
 mistakethis is the new file created for learnig git
