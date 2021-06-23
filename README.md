@@ -1,8 +1,8 @@
 <img src="icons\hii.gif" width="100px" display="block" margin-left="auto" margin-right="auto"/>
 
-#  **Hello everyone, SHIV this side** #
+#  **Hello everyone, I am SHIV CHOPRA** #
 
-## I am an ardent tech lover. Learning and experiencing about new technologies, gadgets and digital system always fascinates me. Currently pursuing **MCA**. Ultimate goal is to be a **DATA SCIENTIST**. Also loves to write **BLOG ARTICLES** of genre tech and gadgets.  ###
+## I am an ardent tech lover. Learning and experiencing about new technologies, gadgets and digital system always fascinates me. Currently pursuing **MCA**. Ultimate goal is to be a **DATA SCIENTIST**. Also loves to write **BLOG ARTICLES** of genre tech and gadgets. Also I do create slideshows on Proshow. ###
 
 
 ---
@@ -23,3 +23,11 @@
 3. *Innovatice and Creative thinking*
 4. *Quick learning ability*
 5. *Good communication skills*
+
+---
+---
+
+> I had also witten some blog articles. You can read them on [MyBlog](https://technologyhunts24.blogspot.com/)
+
+### Find me on ###
+[<img src="icons/facebook.svg" width = "30px"/>](https://www.facebook.com/shiv.chopra.313)  [<img src="icons/insta.svg" width = "30px"/>](https://www.instagram.com/shiv.chopra/) [<img src="icons/twitter.svg" width = "30px"/>]()
