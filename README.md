@@ -12,7 +12,7 @@
 <pre><img src="icons\HTML5.svg" width = "50px"/> <img src="icons\CSS3.svg" width = "50px"/> <img src="icons\javascript.svg" width = "50px"/> <img src="icons\bootstrap.svg" width = "50px"/> <img src="icons\python.png" width = "50px"/> <img src="icons\clang.jpg" width = "50px"/> </pre> 
 
 ## **Tools and IDE I used so far**  ##
-<pre><img src="icons\VScode.svg" width = "50px"/> <img src="icons\pycharm.jpg" width = "50px"/> <img src="icons\jupyter.png" width = "50px"/> <img src="icons\Git.svg" width = "50px"/></pre>
+<pre><img src="icons\VSCode.svg" width = "50px"/> <img src="icons\pycharm.jpg" width = "50px"/> <img src="icons\jupyter.png" width = "50px"/> <img src="icons\Git.svg" width = "50px"/></pre>
 
 ---
 ---
