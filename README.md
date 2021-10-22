@@ -9,7 +9,7 @@
 ---
 ## **Technologies that I learned and used till now** ##
 
-<pre><img src="icons\HTML5.svg" width = "50px"/>&nbsp;&nbsp;<img src="icons\CSS3.svg" width = "50px"/>&nbsp;&nbsp;<img src="icons\javascript.svg" width = "50px"/>&nbsp;&nbsp;<img src="icons\bootstrap.svg" width = "50px"/>&nbsp;&nbsp;<img src="icons\python.png" width = "50px"/>&nbsp;&nbsp;<img src="icons\clang.jpg" width = "50px"/> </pre> 
+<pre><img src="icons\HTML5.svg" width = "50px"/>&nbsp;&nbsp;<img src="icons\CSS3.svg" width = "50px"/>&nbsp;&nbsp;<img src="icons\javascript.svg" width = "50px"/>&nbsp;&nbsp;<img src="icons\bootstrap.svg" width = "50px"/>&nbsp;&nbsp;<img src="icons\python.png" width = "50px"/>&nbsp;&nbsp;<img src="icons\clang.jpg" width = "50px"/>&nbsp;&nbsp;<img src="icons\WP.jpg" width = "50px"/> </pre> 
 
 ## **Tools and IDE I used so far**  ##
 <pre><img src="icons\VSCode.svg" width = "50px"/>&nbsp;&nbsp;<img src="icons\pycharm.jpg" width = "50px"/>&nbsp;&nbsp;<img src="icons\jupyter.png" width = "50px"/>&nbsp;&nbsp;<img src="icons\Git.svg" width = "50px"/></pre>
